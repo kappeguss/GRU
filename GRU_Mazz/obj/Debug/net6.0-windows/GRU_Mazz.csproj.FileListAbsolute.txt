@@ -1,0 +1,17 @@
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\bin\Debug\net6.0-windows\GRU_Mazz.exe
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\bin\Debug\net6.0-windows\GRU_Mazz.deps.json
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\bin\Debug\net6.0-windows\GRU_Mazz.runtimeconfig.json
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\bin\Debug\net6.0-windows\GRU_Mazz.dll
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\bin\Debug\net6.0-windows\GRU_Mazz.pdb
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.Form1.resources
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.Properties.Resources.resources
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.csproj.GenerateResource.cache
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.AssemblyInfoInputs.cache
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.AssemblyInfo.cs
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.csproj.CoreCompileInputs.cache
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.dll
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\refint\GRU_Mazz.dll
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.pdb
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\GRU_Mazz.genruntimeconfig.cache
+C:\Users\mazzoleni.21198\source\repos\GRU_Mazz\obj\Debug\net6.0-windows\ref\GRU_Mazz.dll
